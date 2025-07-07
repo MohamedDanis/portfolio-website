@@ -13,15 +13,15 @@ export const projects = [
         link: "https://opnhub.vercel.app/",
     },
     {
-        title: "CareBi",
-        description: "Designed and developed a static site for data analytics firm",
-        tech: "React",
-        link: "https://www.carebi.in/",
+        title: "InterviewGenie",
+        description: "Designed and developed an interview chatbot that uses Vercel AI SDK and NextJS 15",
+        tech: "Vercel AI",
+        link: "https://interview-mvp-sooty.vercel.app/",
     },
 ]
 
 const techColors = {
-    "React": "bg-blue-500",
+    "Vercel AI": "bg-blue-500",
     "NextJS": "bg-green-500",
     "Vue.js": "bg-purple-500",
     "Python": "bg-yellow-500",

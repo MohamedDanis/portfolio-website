@@ -13,7 +13,7 @@ const jobs = [
     logo: "/tefora.png", // TODO: Replace with actual logo
     duration: "2023 - Present",
     description:
-      "Designed and developed an Indoor Navigation Progressive WebApp for a Hospital, which is a milestone project for the company. Delivered a static website for a Dubai-based pharmacy,finishing the project in 10 hours. Led a team of 2 in developing a full-stack content management system (CMS) for a school website using Node.js and Next.js.Managed frontend and backend development through efficient code management and team coordination",
+      "Spearheaded full-stack development across diverse frontend, backend, and DevOps initiatives, leveraging my expertise in ReactJS, ExpressJS, TypeScript, and Next.js. One of my key achievements includes architecting and developing an indoor navigation Progressive Web App (PWA), which significantly reduced client costs by up to 70% and saved user time by 50% through its robust offline capabilities. I also led a 2-member development team for a comprehensive school website CMS project, successfully delivering the entire solution within a 30-day timeframe. Throughout these projects, I consistently demonstrated high-efficiency project delivery, from development to deployment.",
     link: "https://tefora.in/",
     images: [
         '/paatha.png',
