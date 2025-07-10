@@ -17,7 +17,7 @@ export const Skills = () => {
             <CardContent>
                 <div className="flex flex-wrap gap-2">
                     {skills.map((s, i) => (
-                        <Badge key={i} variant="secondary">
+                        <Badge key={i} variant="default">
                             {s}
                         </Badge>
                     ))}
