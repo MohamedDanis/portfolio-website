@@ -71,6 +71,20 @@ export const Projects = () => {
                         </CardContent>
                     </Card>
                 ))}
+                <Card className="col-span-full transition-all hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none dark:hover:shadow-none">
+                    <CardContent className="pt-6 h-full">
+                        <div className="flex flex-col h-full items-center justify-center">
+                            <Link
+                                href="https://linktr.ee/MohamedDanis"
+                                target="_blank"
+                                className="flex items-center gap-2 text-primary hover:underline"
+                            >
+                                View More Projects
+                                <ExternalLink className="inline-block size-4" />
+                            </Link>
+                        </div>
+                    </CardContent>
+                </Card>
             </div>
         </>
     )
